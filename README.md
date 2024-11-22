@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DarkZerinho
+- I’m interested in video games, playing guitar and coding (sometimes)
+- 🌱 I’m currently learning Phyton, HTML, CSS and JS
